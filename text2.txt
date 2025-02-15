@@ -1,0 +1,5 @@
+Bash can be used to:
+- automate software development tasks such as code compilation
+- debugging source code 
+- change management
+- software testing.
