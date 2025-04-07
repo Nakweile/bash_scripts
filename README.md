@@ -17,10 +17,6 @@ git clone https://github.com/yourusername/bash-scripting-training.git
 ```
 ## Сrib sheet
 
-Конечно! Вот структурированная напоминалка по написанию скриптов на Bash:
-
----
-
 ### **1. Шебанг (Shebang)**
 Всегда указывайте интерпретатор в первой строке:
 ```bash
